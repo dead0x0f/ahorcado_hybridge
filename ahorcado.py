@@ -52,9 +52,9 @@ def main():
 
     #Directorios de los archivos con palabras
     directorios_archivos = {
-            1: "palabras/filosofos.txt",
-            2: "palabras/lenguajes_programacion.txt",
-            3: "palabras/calculo.txt"
+            1: "filosofos.txt",
+            2: "lenguajes_programacion.txt",
+            3: "calculo.txt"
         }
     
     #Seleccionamos un archivo de manera aleatoria
